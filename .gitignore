@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+bookings_log.json
+*.log
+.DS_Store

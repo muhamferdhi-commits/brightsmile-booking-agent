@@ -1,0 +1,477 @@
+{
+  "business": "BrightSmile Dental",
+  "slots": [
+    {
+      "id": "BS001",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "cleaning",
+      "date": "2026-05-04",
+      "time_slot": "09:00",
+      "status": "booked",
+      "patient_name": "Ferdhi Muhamed",
+      "patient_contact": "",
+      "booked_at": "2026-04-29T00:50:02.632551"
+    },
+    {
+      "id": "BS002",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "whitening",
+      "date": "2026-05-04",
+      "time_slot": "10:00",
+      "status": "booked",
+      "patient_name": "Emma Lawson"
+    },
+    {
+      "id": "BS003",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "check-up",
+      "date": "2026-05-04",
+      "time_slot": "11:00",
+      "status": "booked",
+      "patient_name": "ferdhi",
+      "patient_contact": "",
+      "booked_at": "2026-04-29T11:50:45.480304"
+    },
+    {
+      "id": "BS004",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "cleaning",
+      "date": "2026-05-04",
+      "time_slot": "14:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS005",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "whitening",
+      "date": "2026-05-04",
+      "time_slot": "15:00",
+      "status": "booked",
+      "patient_name": "Raj Nair"
+    },
+    {
+      "id": "BS006",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "filling",
+      "date": "2026-05-04",
+      "time_slot": "09:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS007",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "root-canal",
+      "date": "2026-05-04",
+      "time_slot": "11:00",
+      "status": "booked",
+      "patient_name": "Carlos Mendes"
+    },
+    {
+      "id": "BS008",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "check-up",
+      "date": "2026-05-04",
+      "time_slot": "14:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS009",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "cleaning",
+      "date": "2026-05-04",
+      "time_slot": "10:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS010",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "check-up",
+      "date": "2026-05-04",
+      "time_slot": "15:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS011",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "whitening",
+      "date": "2026-05-04",
+      "time_slot": "16:00",
+      "status": "booked",
+      "patient_name": "Priya Sharma"
+    },
+    {
+      "id": "BS012",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "check-up",
+      "date": "2026-05-05",
+      "time_slot": "09:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS013",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "cleaning",
+      "date": "2026-05-05",
+      "time_slot": "11:00",
+      "status": "booked",
+      "patient_name": "John Wu"
+    },
+    {
+      "id": "BS014",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "whitening",
+      "date": "2026-05-05",
+      "time_slot": "14:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS015",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "filling",
+      "date": "2026-05-05",
+      "time_slot": "09:00",
+      "status": "booked",
+      "patient_name": "Aisha Obi"
+    },
+    {
+      "id": "BS016",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "root-canal",
+      "date": "2026-05-05",
+      "time_slot": "10:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS017",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "check-up",
+      "date": "2026-05-05",
+      "time_slot": "15:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS018",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "cleaning",
+      "date": "2026-05-05",
+      "time_slot": "09:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS019",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "filling",
+      "date": "2026-05-05",
+      "time_slot": "11:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS020",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "whitening",
+      "date": "2026-05-05",
+      "time_slot": "16:00",
+      "status": "booked",
+      "patient_name": "Tom Blake"
+    },
+    {
+      "id": "BS021",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "cleaning",
+      "date": "2026-05-06",
+      "time_slot": "10:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS022",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "check-up",
+      "date": "2026-05-06",
+      "time_slot": "14:00",
+      "status": "booked",
+      "patient_name": "Nina Rossi"
+    },
+    {
+      "id": "BS023",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "root-canal",
+      "date": "2026-05-06",
+      "time_slot": "09:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS024",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "filling",
+      "date": "2026-05-06",
+      "time_slot": "11:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS025",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "cleaning",
+      "date": "2026-05-06",
+      "time_slot": "09:00",
+      "status": "booked",
+      "patient_name": "David Park"
+    },
+    {
+      "id": "BS026",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "whitening",
+      "date": "2026-05-06",
+      "time_slot": "14:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS027",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "check-up",
+      "date": "2026-05-06",
+      "time_slot": "15:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS028",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "whitening",
+      "date": "2026-05-07",
+      "time_slot": "09:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS029",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "cleaning",
+      "date": "2026-05-07",
+      "time_slot": "11:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS030",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "check-up",
+      "date": "2026-05-07",
+      "time_slot": "10:00",
+      "status": "booked",
+      "patient_name": "Sara Gomez"
+    },
+    {
+      "id": "BS031",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "filling",
+      "date": "2026-05-07",
+      "time_slot": "14:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS032",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "root-canal",
+      "date": "2026-05-07",
+      "time_slot": "09:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS033",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "cleaning",
+      "date": "2026-05-07",
+      "time_slot": "15:00",
+      "status": "booked",
+      "patient_name": "Mike Tran"
+    },
+    {
+      "id": "BS034",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "check-up",
+      "date": "2026-05-07",
+      "time_slot": "16:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS035",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "check-up",
+      "date": "2026-05-08",
+      "time_slot": "09:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS036",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "cleaning",
+      "date": "2026-05-08",
+      "time_slot": "14:00",
+      "status": "booked",
+      "patient_name": "Anna Bell"
+    },
+    {
+      "id": "BS037",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "root-canal",
+      "date": "2026-05-08",
+      "time_slot": "10:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS038",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "check-up",
+      "date": "2026-05-08",
+      "time_slot": "15:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS039",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "filling",
+      "date": "2026-05-08",
+      "time_slot": "09:00",
+      "status": "booked",
+      "patient_name": "Leo Ferreira"
+    },
+    {
+      "id": "BS040",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "whitening",
+      "date": "2026-05-08",
+      "time_slot": "11:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS041",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "cleaning",
+      "date": "2026-05-11",
+      "time_slot": "09:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS042",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "whitening",
+      "date": "2026-05-11",
+      "time_slot": "11:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS043",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "filling",
+      "date": "2026-05-11",
+      "time_slot": "09:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS044",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "root-canal",
+      "date": "2026-05-11",
+      "time_slot": "14:00",
+      "status": "booked",
+      "patient_name": "Grace Kim"
+    },
+    {
+      "id": "BS045",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "check-up",
+      "date": "2026-05-11",
+      "time_slot": "10:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS046",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "cleaning",
+      "date": "2026-05-11",
+      "time_slot": "16:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS047",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "check-up",
+      "date": "2026-05-12",
+      "time_slot": "10:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS048",
+      "dentist_name": "Dr. Sarah Mitchell",
+      "service_type": "cleaning",
+      "date": "2026-05-12",
+      "time_slot": "15:00",
+      "status": "booked",
+      "patient_name": "Omar Hassan"
+    },
+    {
+      "id": "BS049",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "filling",
+      "date": "2026-05-12",
+      "time_slot": "09:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS050",
+      "dentist_name": "Dr. James Patel",
+      "service_type": "check-up",
+      "date": "2026-05-12",
+      "time_slot": "11:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS051",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "whitening",
+      "date": "2026-05-12",
+      "time_slot": "14:00",
+      "status": "available",
+      "patient_name": ""
+    },
+    {
+      "id": "BS052",
+      "dentist_name": "Dr. Lisa Chen",
+      "service_type": "root-canal",
+      "date": "2026-05-12",
+      "time_slot": "16:00",
+      "status": "booked",
+      "patient_name": "Zoe Adams"
+    }
+  ]
+}

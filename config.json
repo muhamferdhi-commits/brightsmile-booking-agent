@@ -1,0 +1,12 @@
+{
+  "business_name": "BrightSmile Dental",
+  "tagline": "Your smile is our priority",
+  "data_file_path": "appointments.json",
+  "bookings_log_path": "bookings_log.json",
+  "clinic_address": "42 Maplewood Avenue, Suite 3, Austin, TX 78701",
+  "contact_number": "+91 7510542433",
+  "clinic_hours": "Monday to Friday, 9:00 AM to 5:00 PM",
+  "model": "claude-sonnet-4-20250514",
+  "max_tokens": 1024,
+  "agent_name": "Aria"
+}
